@@ -1,0 +1,1 @@
+hey,this project contain a dot supported graph chart depicting model performance and working with an joblib file which can be directly imported and used for using models...the other 2 .ipynb files contain different approaches to the model creation with data present in csv format
